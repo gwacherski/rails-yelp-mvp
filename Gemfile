@@ -7,6 +7,8 @@ gem "rails", "~> 7.1.2"
 
 gem "psych", "~> 3.3.0"
 
+gem "simple_form"
+
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
